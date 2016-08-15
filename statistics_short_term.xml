@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <statistics>
-    <class name="org.aquillian.scheduling.test.Class2Test">
-        <test name="test1">
-            <passed>1</passed>
-            <failures>0</failures>
-        </test>
-        <test name="test2">
-            <passed>1</passed>
-            <failures>0</failures>
-        </test>
-        <test name="test3">
-            <passed>1</passed>
-            <failures>0</failures>
-        </test>
-    </class>
-    <class name="org.aquillian.scheduling.test.Class4Test">
-        <test name="test1">
-            <passed>0</passed>
-            <failures>1</failures>
-        </test>
+    <class name="aquillian.scheduling.test.Class4Test">
         <test name="test2">
             <passed>0</passed>
             <failures>1</failures>
@@ -27,12 +9,26 @@
             <passed>0</passed>
             <failures>1</failures>
         </test>
-    </class>
-    <class name="org.aquillian.scheduling.test.Class1Test">
         <test name="test1">
             <passed>0</passed>
             <failures>1</failures>
         </test>
+    </class>
+    <class name="aquillian.scheduling.test.Class2Test">
+        <test name="test2">
+            <passed>1</passed>
+            <failures>0</failures>
+        </test>
+        <test name="test3">
+            <passed>1</passed>
+            <failures>0</failures>
+        </test>
+        <test name="test1">
+            <passed>1</passed>
+            <failures>0</failures>
+        </test>
+    </class>
+    <class name="aquillian.scheduling.test.Class1Test">
         <test name="test4">
             <passed>1</passed>
             <failures>0</failures>
@@ -42,6 +38,10 @@
             <failures>0</failures>
         </test>
         <test name="test3">
+            <passed>0</passed>
+            <failures>1</failures>
+        </test>
+        <test name="test1">
             <passed>0</passed>
             <failures>1</failures>
         </test>

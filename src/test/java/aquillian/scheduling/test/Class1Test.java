@@ -1,9 +1,10 @@
-package org.aquillian.scheduling.test;
+package aquillian.scheduling.test;
 
 import static org.junit.Assert.*;
 
-import org.aquillian.scheduling.test.Class1;
 import org.junit.Test;
+
+import aquillian.scheduling.test.Class1;
 
 public class Class1Test {
 

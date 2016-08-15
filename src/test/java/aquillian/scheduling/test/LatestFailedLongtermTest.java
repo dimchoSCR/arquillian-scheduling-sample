@@ -1,4 +1,4 @@
-package org.aquillian.scheduling.test;
+package aquillian.scheduling.test;
 
 import static org.junit.Assert.*;
 
@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
 public class LatestFailedLongtermTest{
 	@Test
 	public void test1() {
-		fail("Not yet implemented");
+		fail();
 	}
 	@Test
 	public void test2() {
@@ -18,6 +18,6 @@ public class LatestFailedLongtermTest{
 	}
 	@Test
 	public void test3() {
-		fail("Not yet implemented");
+		fail();
 	}
 }

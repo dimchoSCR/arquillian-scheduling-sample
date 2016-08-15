@@ -1,4 +1,4 @@
-package org.aquillian.scheduling.test;
+package aquillian.scheduling.test;
 
 import static org.junit.Assert.*;
 

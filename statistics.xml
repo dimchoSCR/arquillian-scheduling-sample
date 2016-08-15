@@ -1,47 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <statistics>
-    <class name="org.aquillian.scheduling.test.Class4Test">
-        <test name="test1">
-            <passed>0</passed>
-            <failures>3</failures>
-        </test>
+    <class name="aquillian.scheduling.test.Class4Test">
         <test name="test2">
             <passed>0</passed>
-            <failures>3</failures>
+            <failures>13</failures>
         </test>
         <test name="test3">
             <passed>0</passed>
-            <failures>3</failures>
+            <failures>13</failures>
+        </test>
+        <test name="test1">
+            <passed>0</passed>
+            <failures>13</failures>
         </test>
     </class>
-    <class name="org.aquillian.scheduling.test.Class2Test">
-        <test name="test1">
-            <passed>3</passed>
+    <class name="aquillian.scheduling.test.GreeterTest">
+        <test name="failTest">
+            <passed>0</passed>
+            <failures>13</failures>
+        </test>
+        <test name="shouldCtreateGreeting">
+            <passed>13</passed>
             <failures>0</failures>
         </test>
+    </class>
+    <class name="aquillian.scheduling.test.Class2Test">
         <test name="test2">
-            <passed>3</passed>
+            <passed>14</passed>
             <failures>0</failures>
         </test>
         <test name="test3">
-            <passed>3</passed>
+            <passed>14</passed>
+            <failures>0</failures>
+        </test>
+        <test name="test1">
+            <passed>14</passed>
             <failures>0</failures>
         </test>
     </class>
-    <class name="org.aquillian.scheduling.test.Class1Test">
-        <test name="test1">
-            <passed>0</passed>
-            <failures>3</failures>
-        </test>
+    <class name="aquillian.scheduling.test.Class1Test">
         <test name="test4">
-            <passed>3</passed>
+            <passed>16</passed>
             <failures>0</failures>
         </test>
+        <test name="test2">
+            <passed>16</passed>
+            <failures>0</failures>
+        </test>
+        <test name="test3">
+            <passed>0</passed>
+            <failures>16</failures>
+        </test>
+        <test name="test1">
+            <passed>0</passed>
+            <failures>16</failures>
+        </test>
+    </class>
+    <class name="aquillian.scheduling.test.LatestFailedLongtermTest">
         <test name="test2">
             <passed>3</passed>
             <failures>0</failures>
         </test>
         <test name="test3">
+            <passed>0</passed>
+            <failures>3</failures>
+        </test>
+        <test name="test1">
             <passed>0</passed>
             <failures>3</failures>
         </test>
